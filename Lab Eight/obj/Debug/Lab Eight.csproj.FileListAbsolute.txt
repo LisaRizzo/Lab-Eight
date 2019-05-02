@@ -1,0 +1,7 @@
+C:\Users\lisaa\source\repos\Lab Eight\Lab Eight\bin\Debug\Lab Eight.exe.config
+C:\Users\lisaa\source\repos\Lab Eight\Lab Eight\bin\Debug\Lab Eight.exe
+C:\Users\lisaa\source\repos\Lab Eight\Lab Eight\bin\Debug\Lab Eight.pdb
+C:\Users\lisaa\source\repos\Lab Eight\Lab Eight\obj\Debug\Lab Eight.csprojAssemblyReference.cache
+C:\Users\lisaa\source\repos\Lab Eight\Lab Eight\obj\Debug\Lab Eight.csproj.CoreCompileInputs.cache
+C:\Users\lisaa\source\repos\Lab Eight\Lab Eight\obj\Debug\Lab Eight.exe
+C:\Users\lisaa\source\repos\Lab Eight\Lab Eight\obj\Debug\Lab Eight.pdb
